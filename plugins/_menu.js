@@ -21,7 +21,7 @@ bot.addCommand(
     })
     const [date, time] = getDate()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						KING B2K BOT ✓
 ╰────────────────╯
 
 ╭────────────────
@@ -90,7 +90,7 @@ bot.addCommand(
       }
     })
     const [date, time] = getDate()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ KING B2K ✓ ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${ctx.PREFIX}
 ┃❃│ User : ${message.pushName}
