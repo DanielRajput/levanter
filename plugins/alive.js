@@ -3,7 +3,7 @@ const { bot, aliveMessage } = require('../lib/')
 bot(
   {
     pattern: 'alive ?(.*)',
-    desc: 'bot alive message',
+    desc: 'KING B2K ✓ is alive message',
     type: 'misc',
   },
   async (message, match) => {
